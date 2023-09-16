@@ -28,9 +28,17 @@
 
 <p align="justify"><b>Badge Generation:</b> We will make sure that the badge links are not broken and also make sure that the values are mapped correctly. </p>
 
+## Summary:
+<p align="justify"> Our team examined five projects ranging from web scraping to deal-finding applications, flashcard
+development, stock research, and fitness tracking. While reviewing all these projects, we
+discovered concerns such as version difficulties, broken badges, missing workflow, and lack of
+sufficient troubleshooting information. To prevent them in future projects, we plan to employ
+future practices such as automating workflows, providing troubleshooting guidance, supplying
+pre-built binaries, improving documentation, automated badge creation, and git deployment. </p>
 
 
-BY: Team:45 (Sai Raj Thirumalai, Anish Rao Toorpu, Mahathi Kolishetty, Nitya Naga Sai Atluri) 
+
+<b> BY: Team:45 (Sai Raj Thirumalai, Anish Rao Toorpu, Mahathi Kolishetty, Nitya Naga Sai Atluri) </b>
 
  
 
