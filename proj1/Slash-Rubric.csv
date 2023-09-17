@@ -1,22 +1,22 @@
 Notes ,Assessment  ,Evidence 
-Video ,3,Video  
+Video ,3, https://ncsu.zoom.us/rec/play/cTQPW3MstpNIZPjgtO-6lfrFKWt0xpARhgv2QEe5s2igJ9DW68KJvH6VQQitjqcNDsYwSfL_WE6371e5.b8pOY7x2otjT6UTd?canPlayFromShare=true&from=share_recording_detail&startTime=1638480222000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fncsu.zoom.us%2Frec%2Fshare%2FLX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa%3FstartTime%3D1638480222000
 Workload is spread over the whole team (One team member is often X-times more productive than the others...) ,2,"Number of commits: Jessica Vargas(jrvargas) - 26, Parth Parikh(pmparikh) - 19, Radhika Toravi(rtoravi) - 4, Rushikesh Deodhar(rdeodha) - 8, Saurabh Nanda(snanda) - 2 "
 "but nevertheless, here is a track record that everyone is contributing a lot) ",2,https://github.com/TommasU/slash/commits/main/tests   
 Number of commits ,3,https://github.com/TommasU/slash/graphs/contributors  - 59 
 Number of commits: by different people ,2,"Number of commits: Jessica Vargas(jrvargas) - 26, Parth Parikh(pmparikh) - 19, Radhika Toravi(rtoravi) - 4, Rushikesh Deodhar(rdeodha) - 8, Saurabh-2"
 Issues reports: there are many ,3,https://github.com/TommasU/slash/issues 
 Issues are being closed ,3,https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed 
-DOI badge exists ,3,DOI Badge: Here 
-"Docs: doco generated, format not ugly ",3,All md files: Here 
-Docs: what: point descriptions of each class/function (in isolation) ,3,Function_desc .md : Here 
-"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z ",3,Readme : Here 
-"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing ",2,Readme: Here 
+DOI badge exists ,3,DOI Badge: https://zenodo.org/record/5739350
+"Docs: doco generated, format not ugly ",3,All md files: https://github.com/TommasU/slash/blob/main/docs
+Docs: what: point descriptions of each class/function (in isolation) ,3,Function_desc .md : https://github.com/TommasU/slash/blob/main/docs/function_description.md
+"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z ",3,Readme : https://github.com/TommasU/slash/tree/main#readme 
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing ",2,Readme: https://github.com/TommasU/slash/tree/main#readme
 "Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. ",3,https://github.com/TommasU/slash/blob/main/assets/slash.gif 
-Use of version control tools ,3,REFER ME 
+Use of version control tools ,3, https://github.com/TommasU/slash
 Use of style checkers ,3,https://github.com/TommasU/slash/actions/workflows/style_checker.yml 
 Use of code formatters. ,3,https://github.com/TommasU/slash/actions/workflows/pylint.yml\ 
 Use of syntax checkers. ,3,https://github.com/TommasU/slash/actions/workflows/pylint.yml 
-Use of code coverage ,3,Code coverage badge: ME 
+Use of code coverage ,3,Code coverage badge: https://app.codecov.io/gh/TommasU/slash
 Other automated analysis tools ,1,Only pylint  
 Test cases exist ,3,https://github.com/TommasU/slash/blob/main/tests/test_cli.py 
 Test cases are routinely executed ,0,No workflow or travis  
@@ -62,8 +62,8 @@ Q6 - Your software's maintainability ,,
 6.1) Is your software’s architecture and design modular? ,YES, 
 6.2) Does your software use an accepted coding standard or convention? ,YES, 
 Q7 - Open standards and your software ,,
-"7.1) Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones ",YES,
-"7.2) Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones ",YES,
+"7.1) Does your software allow data to be imported and exported using open data formats?  ",YES,
+"7.2) Does your software allow communications using open communications protocols? ",YES,
 Q8 - Your software's portability ,,
 "8.1) Is your software cross-platform compatible? ",YES,
 Q9 - Your software and accessibility ,,
@@ -91,14 +91,14 @@ Q12 - How you test your software ,,
 12.4) Are your test results publicly visible? ,NO,
 12.5) Are all manually run tests documented? ,NO,
 Q13 - How you engage with your community ,,
-"13.1) Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?  ",NO,
+"13.1) Does your project have resources that are regularly updated with information about your software?  ",NO,
 13.2)  Does your website state how many projects and users are associated with your project? ,NO,
 13.3) Do you provide success stories on your website? ,NO,
 13.4) Do you list your important partners and collaborators on your website? ,NO,
 13.5) Do you list your project's publications on your website or link to a resource where these are available? ,NO,
 13.6) Do you list third-party publications that refer to your software on your website or link to a resource where these are available? ,NO,
 13.7) Can users subscribe to notifications to changes to your source code repository? ,YES,
-"13.8) If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? ",YES,
+"13.8) If your software is developed as an open source project , do you have a governance model? ",YES,
 Q14 - How you manage contributions ,,
 "14.1) Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? ",YES,
 14.2) Do you have a contributions policy? ,YES,
@@ -113,6 +113,6 @@ Q15 - Your software's copyright and licensing ,,
 15.6) Does each of your source code files include a licence header? ,NO,
 15.7) Do you have a recommended citation for your software? ,NO,
 Q16 - Your plans for the future ,,
-"16.1) Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? ",YES,
+"16.1) Does your website or documentation include a project roadmap ? ",YES,
 "16.2) Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? ",NO,
 "16.3) Do you make timely announcements of the deprecation of components, APIs, etc.? ",NO,
