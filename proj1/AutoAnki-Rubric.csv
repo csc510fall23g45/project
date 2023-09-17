@@ -1,118 +1,118 @@
-Notes ,Assessment  ,Evidence 
-Video , 3 ,https://drive.google.com/file/d/12h5izedNfEth56KhbKFRBYDFKU2PPChQ/view
-Workload is spread over the whole team (One team member is often X-times more productive than the others...) , 3 ,"https://github.com/SmayanaReddy/auto_anki/graphs/contributors Smayana Pidugu - 9, Gokul Krishna Koganti - 24, Rachana Kondabala -11, Harikrishna Selvaraj - 30, Kiran Bharadwaj Ganesh - 20"
-"but nevertheless, here is a track record that everyone is contributing a lot) ", 3 ,You can check the contributions here - https://github.com/SmayanaReddy/auto_anki/graphs/contributors 
-Number of commits , 3 ,Contributions / whole team - 84 here - https://github.com/SmayanaReddy/auto_anki/graphs/contributors
-Number of commits: by different people , 3 ,"https://github.com/SmayanaReddy/auto_anki/graphs/contributors Smayana Pidugu - 9, Gokul Krishna Koganti - 24, Rachana Kondabala -11, Harikrishna Selvaraj - 30, Kiran Bharadwaj Ganesh - 20"
-Issues reports: there are many , 2 ,7 Issues 
-Issues are being closed , 3 ,7 closed issues - https://github.com/SmayanaReddy/auto_anki/issues?q=is%3Aissue+is%3Aclosed 
-DOI badge: exists , 3 ,DOI Badge - https://github.com/SmayanaReddy/auto_anki 
-"Docs: doco generated, format not ugly ", 3 ,Used Pycco for documentation - https://github.com/SmayanaReddy/auto_anki/blob/main/docs/pycco.css 
-Docs: what: point descriptions of each class/function (in isolation) , 3 ,https://github.com/SmayanaReddy/auto_anki/tree/main/docs
-"Docs: how: for common use cases X,Y,Z mini tutorials showing worked examples on how to do X,Y,Z ", 0 ,No use cases 
-"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing ", 3 ,Reference -  https://github.com/SmayanaReddy/auto_anki  
-"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. ", 3 ,Reference - https://github.com/SmayanaReddy/auto_anki  
-Use of version control tools , 3 ,Used GitHub as version control  https://github.com/SmayanaReddy/auto_anki 
-Use of style checkers , 3 ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.yml 
-Use of code formatters. , 3 ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.yml 
-Use of syntax checkers. , 3 ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.yml 
-Use of code coverage , 3 ,Refer Me - https://github.com/SmayanaReddy/auto_anki 
-Other automated analysis tools , 3 ,"Pylint, CodeCoverage, Travis. Can check the status for the same through badges on homepage of repo - https://github.com/SmayanaReddy/auto_anki  "
-Test cases exist , 3 ,Test files - https://github.com/SmayanaReddy/auto_anki/tree/main/test 
-Test cases are routinely executed , 3 ,"Passing build via travis-com.com, executed on each commit "
-The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up , 3 ,Contributing.md - https://github.com/SmayanaReddy/auto_anki/blob/main/CONTRIBUTING.md 
-Issues are discussed before they are closed , 3 ,Issues tab - https://github.com/SmayanaReddy/auto_anki/issues 
-Chat channel: exists , 0 ,No Chat Channel 
-Test cases: a large proportion of the issues related to handling failing cases. , 1 ,Reference - https://github.com/SmayanaReddy/auto_anki/issues?q=is%3Aissue+is%3Aclosed 
-Evidence that the whole team is using the same tools: everyone can get to all tools and files , 3 ,Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributors  
-"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) ", 3 ,You can check the contributors Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributors 
-"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) ", 3 ,You can check the contributors Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributors 
-Evidence that the members of the team are working across multiple places in the code base , 3 ,You can check the contributors Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributors
-Short release cycles , 1 ,Refer : Releases · https://github.com/SmayanaReddy/auto_anki   
-  ,,
-Q1 - What your software does ,,
-"1.1) Does your website and documentation provide a clear, high-level overview of your software? ",YES,
-1.2) Does your website and documentation clearly describe the type of user who should use your software? ,NO,
-1.3) Do you publish case studies to show how your software has been used by yourself and others? ,NO,
-Q2 - Your project's and software's identity ,,
-2.1) Is the name of your project/software unique? ,YES,
-2.2) Is your project/software name free from trademark violations? ,YES,
-Q3 - Availability of your software ,,
-3.1) Is your software available as a package that can be deployed without building it? ,NO,
-3.2) Is your software available for free? ,YES,
-"3.3) Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? ",YES,
-"3.4) Is your software hosted in an established, third-party repository ? ",YES,
-Q4 - Your software's documentation ,,
- 4.1) Is your documentation clearly available on your website or within your software? ,YES,
-" 4.2) Does your documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use? ",YES,
-" 4.3) If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? ",YES,
-"4.4) Do you provide a comprehensive guide to all your software’s commands, functions and options? ",YES,
-4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? ,NO,
-"4.6) If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? ",NO,
-4.7) Do you store your documentation under revision control with your source code? ,YES,
-4.8) Do you publish your release history  on your web site or in your documentation? ,NO,
-Q5 - How you support your software ,,
-5.1) Does your software describe how a user can get help with using your software? ,YES,
-"5.2) Does your website and documentation describe what support, if any, you provide to users and developers? ",YES,
-5.3) Does your project have an e-mail address or forum that is solely for supporting users? ,NO,
-5.4) Are e-mails to your support e-mail address received by more than one person? ,NO,
-5.5) Does your project have a ticketing system to manage bug reports and feature requests? ,YES,
-"5.6) Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests? ",YES,
-Q6 - Your software's maintainability ,,
-6.1) Is your software’s architecture and design modular? ,YES,
-6.2) Does your software use an accepted coding standard or convention? ,YES,
-Q7 - Open standards and your software ,,
- 7.1) Does your software allow data to be imported and exported using open data formats?,YES,
-7.2) Does your software allow communications using open communications protocols? ,YES,
-Q8 - Your software's portability ,,
-"8.1) Is your software cross-platform compatible?* e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari? ",YES,
-Q9 - Your software and accessibility ,,
-9.1) Does your software adhere to appropriate accessibility conventions or standards? ,NO,
-9.2) Does your documentation adhere to appropriate accessibility conventions or standards? ,NO,
-Q10 - How you manage your source code ,,
-10.1) Is your source code stored in a repository under revision control? ,YES,
-10.2) Is each source code release a snapshot of the repository? ,NO,
-10.3) Are releases tagged in the repository? ,YES,
-"10.4) Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) ", YES ,
-10.5) Do you back-up your repository? , YES ,
-Q11 - Building and installing your software ,,
-11.1) Do you provide publicly available instructions for building your software from the source code? , YES ,
-"11.2) Can you build, or package, your software using an automated tool?", YES ,
-11.3) Do you provide publicly-available instructions for deploying your software? , YES ,
-11.4) Does your documentation list all third-party dependencies? , YES ,
-11.5) Does your documentation list the version number for all third-party dependencies? , YES ,
-"11.6) Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or not?", NO ,
-11.7) Can you download dependencies using a dependency management tool or package manager?, YES ,
-11.8) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful? , YES ,
-Q12 - How you test your software ,,
-12.1) Do you have an automated test suite for your software? , NO ,
-12.2) Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code? , NO ,
-"12.3) Do you use continuous integration, automatically running tests whenever changes are made to your source code? ", NO ,
-12.4) Are your test results publicly visible? , NO ,
-12.5) Are all manually-run tests documented? , NO ,
-Q13 - How you engage with your community ,,
-13.1) Does your project have resources that are regularly updated with information about your software? , NO ,
-13.2) Does your website state how many projects and users are associated with your project? , NO ,
-13.3) Do you provide success stories on your website? , NO ,
-13.4) Do you list your important partners and collaborators on your website? , NO ,
-13.5) Do you list your project's publications on your website or link to a resource where these are available? , NO ,
-13.6) Do you list third-party publications that refer to your software on your website or link to a resource where these are available? , NO ,
-13.7) Can users subscribe to notifications to changes to your source code repository? ,YES,
-"13.8) If your software is developed as an open source project, do you have a governance model? ", YES ,
-Q14 - How you manage contributions ,,
-14.1) Do you accept contributions from people who are not part of your project? , YES ,
-14.2) Do you have a contributions policy? , YES ,
-14.3) Is your contributions' policy publicly available? , YES ,
-14.4) Do contributors keep the copyright/IP of their contributions? , YES ,
-Q15 - Your software's copyright and licensing ,,
-15.1) Does your website and documentation clearly state the copyright owners of your software and documentation? , YES ,
-15.2) Does each of your source code files include a copyright statement? , NO ,
-15.3) Does your website and documentation clearly state the licence of your software? , YES ,
-15.4) Is your software released under an open source licence? , YES ,
-15.5) Is your software released under an OSI-approved open-source licence? , YES ,
-15.6) Does each of your source code files include a licence header? , NO ,
-15.7) Do you have a recommended citation for your software? , YES ,
-Q16 - Your plans for the future ,,
-16.1) Does your website or documentation include a project roadmap ? ,YES ,
-"16.2) Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? ", NO ,
-"16.3) Do you make timely announcements of the deprecation of components, APIs, etc.? ", NO ,
+NotesÂ ,AssessmentÂ Â ,EvidenceÂ 
+VideoÂ ,Â 3Â ,https://drive.google.com/file/d/12h5izedNfEth56KhbKFRBYDFKU2PPChQ/view
+Workload is spread over the whole team (One team member is often X-times more productive than the others...)Â , 3Â ,"https://github.com/SmayanaReddy/auto_anki/graphs/contributors Smayana Pidugu - 9,Â Gokul Krishna Koganti - 24,Â Rachana Kondabala -11, Harikrishna Selvaraj - 30, Kiran Bharadwaj Ganesh - 20"
+"but nevertheless, here is a track record that everyone is contributing a lot)Â ",Â 3Â ,You can check the contributions here - https://github.com/SmayanaReddy/auto_anki/graphs/contributorsÂ 
+Number of commitsÂ ,Â 3Â ,Contributions / whole team - 84 hereÂ - https://github.com/SmayanaReddy/auto_anki/graphs/contributors
+Number of commits: by different peopleÂ ,Â 3Â ,"https://github.com/SmayanaReddy/auto_anki/graphs/contributors Smayana Pidugu - 9,Â Gokul Krishna Koganti - 24,Â Rachana Kondabala -11, Harikrishna Selvaraj - 30, Kiran Bharadwaj Ganesh - 20"
+Issues reports: there are manyÂ ,Â 2Â ,7 IssuesÂ 
+Issues are being closedÂ ,Â 3Â ,7 closed issues - https://github.com/SmayanaReddy/auto_anki/issues?q=is%3Aissue+is%3AclosedÂ 
+DOI badge: existsÂ ,Â 3Â ,DOI Badge - https://github.com/SmayanaReddy/auto_ankiÂ 
+"Docs: doco generated, format not uglyÂ ",Â 3Â ,Used Pycco for documentation - https://github.com/SmayanaReddy/auto_anki/blob/main/docs/pycco.cssÂ 
+Docs: what: point descriptions of each class/function (in isolation)Â ,Â 3Â ,https://github.com/SmayanaReddy/auto_anki/tree/main/docs
+"Docs: how: for common use cases X,Y,Z mini tutorials showing worked examples on how to do X,Y,ZÂ ",Â 0Â ,No use casesÂ 
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thingÂ ",Â 3Â ,Reference -  https://github.com/SmayanaReddy/auto_ankiÂ Â 
+"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.Â ",Â 3Â ,Reference - https://github.com/SmayanaReddy/auto_ankiÂ Â 
+Use of version control toolsÂ ,Â 3Â ,Used GitHub as version controlÂ  https://github.com/SmayanaReddy/auto_ankiÂ 
+Use of style checkersÂ ,Â 3Â ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.ymlÂ 
+Use of code formatters.Â ,Â 3Â ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.ymlÂ 
+Use of syntax checkers.Â ,Â 3Â ,https://github.com/SmayanaReddy/auto_anki/blob/main/.travis.ymlÂ 
+Use of code coverageÂ ,Â 3Â ,Refer MeÂ - https://github.com/SmayanaReddy/auto_ankiÂ 
+Other automated analysis toolsÂ ,Â 3Â ,"Pylint, CodeCoverage, Travis. Can check the status for the same through badges on homepage of repo - https://github.com/SmayanaReddy/auto_ankiÂ Â "
+Test cases existÂ ,Â 3Â ,Test files - https://github.com/SmayanaReddy/auto_anki/tree/main/testÂ 
+Test cases are routinely executedÂ ,Â 3Â ,"Passing build via travis-com.com, executed on each commitÂ "
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things upÂ ,Â 3Â ,Contributing.md - https://github.com/SmayanaReddy/auto_anki/blob/main/CONTRIBUTING.mdÂ 
+Issues are discussed before they are closedÂ ,Â 3Â ,Issues tab - https://github.com/SmayanaReddy/auto_anki/issuesÂ 
+Chat channel: existsÂ ,Â 0Â ,No Chat ChannelÂ 
+Test cases: a large proportion of the issues related to handling failing cases.Â ,Â 1Â ,Reference - https://github.com/SmayanaReddy/auto_anki/issues?q=is%3Aissue+is%3AclosedÂ 
+Evidence that the whole team is using the same tools: everyone can get to all tools and filesÂ ,Â 3Â ,Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributors Â 
+"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)Â ",Â 3Â ,You can check the contributors Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributorsÂ 
+"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)Â ",Â 3Â ,You can check the contributors Reference - https://github.com/SmayanaReddy/auto_anki/graphs/contributorsÂ 
+Evidence that the members of the team are working across multiple places in the code baseÂ ,Â 3Â ,You can check the contributors ReferenceÂ - https://github.com/SmayanaReddy/auto_anki/graphs/contributors
+Short release cyclesÂ ,Â 1Â ,Refer : Releases Â· https://github.com/SmayanaReddy/auto_ankiÂ Â Â 
+Â Â ,,
+Q1 - What your software doesÂ ,,
+"1.1) Does your website and documentation provide a clear, high-level overview of your software?Â ",YES,
+1.2) Does your website and documentation clearly describe the type of user who should use your software?Â ,NO,
+1.3) Do you publish case studies to show how your software has been used by yourself and others?Â ,NO,
+Q2 - Your project's and software's identityÂ ,,
+2.1) Is the name of your project/software unique?Â ,YES,
+2.2) Is your project/software name free from trademark violations?Â ,YES,
+Q3 - Availability of your softwareÂ ,,
+3.1) Is your software available as a package that can be deployed without building it?Â ,NO,
+3.2) Is your software available for free?Â ,YES,
+"3.3) Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?Â ",YES,
+"3.4) Is your software hosted in an established, third-party repository ?Â ",YES,
+Q4 - Your software's documentationÂ ,,
+Â 4.1) Is your documentation clearly available on your website or within your software?Â ,YES,
+"Â 4.2) Does your documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?Â ",YES,
+"Â 4.3) If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?Â ",YES,
+"4.4) Do you provide a comprehensive guide to all your softwareâ€™s commands, functions and options?Â ",YES,
+4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?Â ,NO,
+"4.6) If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?Â ",NO,
+4.7) Do you store your documentation under revision control with your source code?Â ,YES,
+4.8) Do you publish your release history  on your web site or in your documentation?Â ,NO,
+Q5 - How you support your softwareÂ ,,
+5.1) Does your software describe how a user can get help with using your software?Â ,YES,
+"5.2) Does your website and documentation describe what support, if any, you provide to users and developers?Â ",YES,
+5.3) Does your project have an e-mail address or forum that is solely for supporting users?Â ,NO,
+5.4) Are e-mails to your support e-mail address received by more than one person?Â ,NO,
+5.5) Does your project have a ticketing system to manage bug reports and feature requests?Â ,YES,
+"5.6) Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?Â ",YES,
+Q6 - Your software's maintainabilityÂ ,,
+6.1) Is your softwareâ€™s architecture and design modular?Â ,YES,
+6.2) Does your software use an accepted coding standard or convention?Â ,YES,
+Q7 - Open standards and your softwareÂ ,,
+Â 7.1) Does your software allow data to be imported and exported using open data formats?,YES,
+7.2) Does your software allow communications using open communications protocols?Â ,YES,
+Q8 - Your software's portabilityÂ ,,
+"8.1) Is your software cross-platform compatible?Â ",YES,
+Q9 - Your software and accessibilityÂ ,,
+9.1) Does your software adhere to appropriate accessibility conventions or standards?Â ,NO,
+9.2) Does your documentation adhere to appropriate accessibility conventions or standards?Â ,NO,
+Q10 - How you manage your source codeÂ ,,
+10.1) Is your source code stored in a repository under revision control?Â ,YES,
+10.2) Is each source code release a snapshot of the repository?Â ,NO,
+10.3) Are releases tagged in the repository?Â ,YES,
+"10.4) Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)Â ",Â YESÂ ,
+10.5) Do you back-up your repository?Â ,Â YESÂ ,
+Q11 - Building and installing your softwareÂ ,,
+11.1) Do you provide publicly available instructions for building your software from the source code?Â ,Â YESÂ ,
+"11.2) Can you build, or package, your software using an automated tool?",Â YESÂ ,
+11.3) Do you provide publicly-available instructions for deploying your software?Â ,Â YESÂ ,
+11.4) Does your documentation list all third-party dependencies?Â ,Â YESÂ ,
+11.5) Does your documentation list the version number for all third-party dependencies?Â ,Â YESÂ ,
+"11.6) Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory orÂ not?",Â NOÂ ,
+11.7) Can you download dependencies using a dependency management tool or package manager?, YESÂ ,
+11.8) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?Â ,Â YESÂ ,
+Q12 - How you test your softwareÂ ,,
+12.1) Do you have an automated test suite for your software?Â ,Â NOÂ ,
+12.2) Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?Â ,Â NOÂ ,
+"12.3) Do you use continuous integration, automatically running tests whenever changes are made to your source code?Â ",Â NOÂ ,
+12.4) Are your test results publicly visible?Â ,Â NOÂ ,
+12.5) Are all manually-run tests documented?Â ,Â NOÂ ,
+Q13 - How you engage with your communityÂ ,,
+13.1) Does your project have resources that are regularly updated with information about your software?Â ,Â NOÂ ,
+13.2) Does your website state how many projects and users are associated with your project?Â ,Â NOÂ ,
+13.3) Do you provide success stories on your website?Â ,Â NOÂ ,
+13.4) Do you list your important partners and collaborators on your website?Â ,Â NOÂ ,
+13.5) Do you list your project's publications on your website or link to a resource where these are available?Â ,Â NOÂ ,
+13.6) Do you list third-party publications that refer to your software on your website or link to a resource where these are available?Â ,Â NOÂ ,
+13.7) Can users subscribe to notifications to changes to your source code repository?Â ,YES,
+"13.8) If your software is developed as an open source project, do you have a governance model?Â ",Â YESÂ ,
+Q14 - How you manage contributionsÂ ,,
+14.1) Do you accept contributions from people who are not part of your project?Â ,Â YESÂ ,
+14.2) Do you have a contributions policy?Â ,Â YESÂ ,
+14.3) Is your contributions' policy publicly available?Â ,Â YESÂ ,
+14.4) Do contributors keep the copyright/IP of their contributions?Â ,Â YESÂ ,
+Q15 - Your software's copyright and licensingÂ ,,
+15.1) Does your website and documentation clearly state the copyright owners of your software and documentation?Â ,Â YESÂ ,
+15.2) Does each of your source code files include a copyright statement?Â ,Â NOÂ ,
+15.3) Does your website and documentation clearly state the licence of your software?Â ,Â YESÂ ,
+15.4) Is your software released under an open source licence?Â ,Â YESÂ ,
+15.5) Is your software released under an OSI-approved open-source licence?Â ,Â YESÂ ,
+15.6) Does each of your source code files include a licence header?Â ,Â NOÂ ,
+15.7) Do you have a recommended citation for your software?Â ,Â YESÂ ,
+Q16 - Your plans for the futureÂ ,,
+16.1) Does your website or documentation include a project roadmap ?Â ,YESÂ ,
+"16.2) Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?Â ",Â NOÂ ,
+"16.3) Do you make timely announcements of the deprecation of components, APIs, etc.?Â ",Â NOÂ ,
