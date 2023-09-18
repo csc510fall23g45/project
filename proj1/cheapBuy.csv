@@ -1,118 +1,118 @@
-Notes ,Assessment  ,Evidence 
-Video ,3,Video link: www.youtube.com/watch?v=-P3LxID5QzA
-Workload is spread over the whole team (One team member is often X-times more productive than the others...) ,1,1 person has contributed the most. Contribution: https://github.com/rliu9/cheapBuy/graphs/contributors
-"but nevertheless, here is a track record that everyone is contributing a lot) ",1,1 person has contributed the most. Contribution: https://github.com/rliu9/cheapBuy/graphs/contributors
-Number of commits ,3,37 commits by the team
-Number of commits: by different people ,1,"Rundi Liu:26,  zhijin44:6, vividyu:2, Haoqu Ma:2, Joshua Lin:1 "
-Issues reports: there are many ,3,14 issues: https://github.com/rliu9/cheapBuy/issues
-Issues are being closed ,2,11 issues closed: https://github.com/rliu9/cheapBuy/issues
-DOI badge: exists ,3,https://doi.org/10.5281/zenodo.5645496 
-"Docs: doco generated, format not ugly ",2,Some links and images are broken 
-Docs: what: point descriptions of each class/function (in isolation) ,3,Description doc file: https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf
-"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z ",2,"Doc available (https://github.com/rliu9/cheapBuy/blob/main/docs/Improvements.md and https://github.com/rliu9/cheapBuy/blob/main/docs/use_cases.md), but some images are broken      "
-"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing ",2,https://github.com/rliu9/cheapBuy/blob/main/README.md and https://github.com/rliu9/cheapBuy/blob/main/docs/Improvements.md
-"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. ",3,GIFs are used to show the uses: https://github.com/rliu9/cheapBuy/blob/main/README.md
-Use of version control tools ,3,Project is stored in GitHub: https://github.com/rliu9/cheapBuy/
-Use of style checkers ,3,style checker: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/style_checker.yml
-Use of code formatters. ,3,code formatters: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/code_formatter.yml
-Use of syntax checkers. ,3,syntax checkers: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/code_formatter.yml
-Use of code coverage ,3,Code coverage :100% https://app.codecov.io/gh/anshulp2912/cheapBuy
-Other automated analysis tools ,0,No other automated analysis tool used
-Test cases exist ,3,Test cases: https://github.com/rliu9/cheapBuy/tree/main/test
-Test cases are routinely executed ,3,Tests are routinely executed: https://app.travis-ci.com/github/anshulp2912/cheapBuy/builds
-The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up ,3,Provides a brief details on Contributing: https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md
-Issues are discussed before they are closed ,2,Issues are discussed before closing them: https://github.com/rliu9/cheapBuy/issues?q=is%3Aissue+is%3Aclosed
-Chat channel: exists ,0,No known channel exist
-Test cases: a large proportion of the issues related to handling failing cases. ,1,Only a few issues on bugs and test cases
-Evidence that the whole team is using the same tools: everyone can get to all tools and files ,3,Whole team is using python and same dependencies: https://github.com/rliu9/cheapBuy/blob/main/requirements.txt
-"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) ",3,The tools are run by workflows: https://github.com/rliu9/cheapBuy/tree/main/.github/workflows
-"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) ",3,The tools are run by workflows: https://github.com/rliu9/cheapBuy/tree/main/.github/workflows
-Evidence that the members of the team are working across multiple places in the code base ,1,Only 1 member is working on multiple places: https://github.com/rliu9/cheapBuy/commits/main
-Short release cycles ,1,Only 1 releases: https://github.com/rliu9/cheapBuy/releases
+Notes,Assessment,Evidence
+Video,3,Video link: www.youtube.com/watch?v=-P3LxID5QzA
+Workload is spread over the whole team (One team member is often X-times more productive than the others...),1,1 person has contributed the most. Contribution: https://github.com/rliu9/cheapBuy/graphs/contributors
+"but nevertheless, here is a track record that everyone is contributing a lot)",1,1 person has contributed the most. Contribution: https://github.com/rliu9/cheapBuy/graphs/contributors
+Number of commits,3,37 commits by the team
+Number of commits: by different people,1,"Rundi Liu:26,  zhijin44:6, vividyu:2, Haoqu Ma:2, Joshua Lin:1"
+Issues reports: there are many,3,14 issues: https://github.com/rliu9/cheapBuy/issues
+Issues are being closed,2,11 issues closed: https://github.com/rliu9/cheapBuy/issues
+DOI badge: exists,3,https://doi.org/10.5281/zenodo.5645496
+"Docs: doco generated, format not ugly",2,Some links and images are broken
+Docs: what: point descriptions of each class/function (in isolation),3,Description doc file: https://github.com/rliu9/cheapBuy/blob/main/docs/Code%20Description.pdf
+"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",2,"Doc available (https://github.com/rliu9/cheapBuy/blob/main/docs/Improvements.md and https://github.com/rliu9/cheapBuy/blob/main/docs/use_cases.md), but some images are broken"
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",2,https://github.com/rliu9/cheapBuy/blob/main/README.md and https://github.com/rliu9/cheapBuy/blob/main/docs/Improvements.md
+"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,GIFs are used to show the uses: https://github.com/rliu9/cheapBuy/blob/main/README.md
+Use of version control tools,3,Project is stored in GitHub: https://github.com/rliu9/cheapBuy/
+Use of style checkers,3,style checker: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/style_checker.yml
+Use of code formatters.,3,code formatters: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/code_formatter.yml
+Use of syntax checkers.,3,syntax checkers: https://github.com/rliu9/cheapBuy/blob/main/.github/workflows/code_formatter.yml
+Use of code coverage,3,Code coverage :100%Â https://app.codecov.io/gh/anshulp2912/cheapBuy
+Other automated analysis tools,0,No other automated analysis tool used
+Test cases exist,3,Test cases: https://github.com/rliu9/cheapBuy/tree/main/test
+Test cases are routinely executed,3,Tests are routinely executed: https://app.travis-ci.com/github/anshulp2912/cheapBuy/builds
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,Provides a brief details on Contributing: https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md
+Issues are discussed before they are closed,2,Issues are discussed before closing them:Â https://github.com/rliu9/cheapBuy/issues?q=is%3Aissue+is%3Aclosed
+Chat channel: exists,0,No known channel exist
+Test cases: a large proportion of the issues related to handling failing cases.,1,Only a few issues on bugs and test cases
+Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,Whole team is using python and same dependencies:Â https://github.com/rliu9/cheapBuy/blob/main/requirements.txt
+"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",3,The tools are run by workflows: https://github.com/rliu9/cheapBuy/tree/main/.github/workflows
+"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",3,The tools are run by workflows: https://github.com/rliu9/cheapBuy/tree/main/.github/workflows
+Evidence that the members of the team are working across multiple places in the code base,1,Only 1 member is working on multiple places: https://github.com/rliu9/cheapBuy/commits/main
+Short release cycles,1,Only 1 releases:Â https://github.com/rliu9/cheapBuy/releases
 ,,
 Q1 - What your software does,,
 1.1) Does your website and documentation provide a clear high-level overview of your software?,yes,Doc: https://github.com/rliu9/cheapBuy/blob/main/README.md
 1.2) Does your website and documentation clearly describe the type of user who should use your software?,yes,
-1.3) Do you publish case studies to show how your software has been used by yourself and others? , yes ,
-Q2 - Your project's and software's identity ,,
-2.1) Is the name of your project/software unique? ,yes ,
-2.2) Is your project/software name free from trademark violations? ,yes ,
+1.3) Do you publish case studies to show how your software has been used by yourself and others?,yes,
+Q2 - Your project's and software's identity,,
+2.1) Is the name of your project/software unique?,yes,
+2.2) Is your project/software name free from trademark violations?,yes,
 Q3 - Availability of your software,,
-3.1) Is your software available as a package that can be deployed without building it? ,no ,No binaries available
-3.2) Is your software available for free? ,yes ,MIT licence
-3.3) Is your source code publicly available to download either as a downloadable bundle or via access to a source code repository?,  yes ,Hosted in GitHub
-3.4) Is your software hosted in an established third-party repository third-party repository like GitHub, yes ,https://github.com/rliu9/cheapBuy
-Q4 - Your software's documentation ,,
-4.1) Is your documentation clearly available on your website or within your software? , yes ,
-4.2) Does your documentation include a quick start guide that provides a short overview of how to use your software with some basic examples of use?, yes ,
-4.3) If you provide more extensive documentation does this provide clear step-by-step instructions on how to deploy and use your software? , yes ,
-4.4) Do you provide a comprehensive guide to all your software’s commands functions and options? , yes ,
-4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?  , no ,
-4.6) If your software can be used as a library package or service by other software do you provide comprehensive API documentation? , no ,
-4.7) Do you store your documentation under revision control with your source code?, yes ,Documents are edited in GitHub
-4.8) Do you publish your release history ,no ,
-Q5 - How you support your software ,,
-5.1) Does your software describe how a user can get help with using your software?  , yes ,
-5.2) Does your website and documentation describe what support you provide to users and developers (if any)? , yes ,
-5.3) Does your project have an e-mail address or forum that is solely for supporting users? ,no ,
-5.4) Are e-mails to your support e-mail address received by more than one person? , NA ,
-5.5) Does your project have a ticketing system to manage bug reports and feature requests?  , yes ,GitHub issues tab: https://github.com/rliu9/cheapBuy/issues
+3.1) Is your software available as a package that can be deployed without building it?,no,No binaries available
+3.2) Is your software available for free?,yes,MIT licence
+3.3) Is your source code publicly available to download either as a downloadable bundle or via access to a source code repository?,yes,Hosted in GitHub
+3.4) Is your software hosted in an established third-party repository third-party repository like GitHub,yes,https://github.com/rliu9/cheapBuy
+Q4 - Your software's documentation,,
+4.1) Is your documentation clearly available on your website or within your software?,yes,
+4.2) Does your documentation include a quick start guide that provides a short overview of how to use your software with some basic examples of use?,yes,
+4.3) If you provide more extensive documentation does this provide clear step-by-step instructions on how to deploy and use your software?,yes,
+4.4) Do you provide a comprehensive guide to all your softwareâ€™s commands functions and options?,yes,
+4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?,no,
+4.6) If your software can be used as a library package or service by other software do you provide comprehensive API documentation?,no,
+4.7) Do you store your documentation under revision control with your source code?,yes,Documents are edited in GitHub
+4.8) Do you publish your release history,no,
+Q5 - How you support your software,,
+5.1) Does your software describe how a user can get help with using your software?,yes,
+5.2) Does your website and documentation describe what support you provide to users and developers (if any)?,yes,
+5.3) Does your project have an e-mail address or forum that is solely for supporting users?,no,
+5.4) Are e-mails to your support e-mail address received by more than one person?,NA,
+5.5) Does your project have a ticketing system to manage bug reports and feature requests?,yes,GitHub issues tab: https://github.com/rliu9/cheapBuy/issues
 5.6) Is your project's ticketing system publicly visible to your users so they can view bug reports and feature requests?,yes,GitHub issues tab: https://github.com/rliu9/cheapBuy/issues
 Q6 - Your software's maintainability,,
-6.1) Is your software’s architecture and design modular? , yes ,
-6.2) Does your software use an accepted coding standard or convention? , yes ,
-Q7 - Open standards and your software ,,
-7.1) Does your software allow data to be imported and exported using open data formats?, yes ,CSV and HTML
-7.2) Does your software allow communications using open communications protocols? , yes ,HTTP
-Q8 - Your software's portability ,,
-8.1) Is your software cross-platform compatible? , yes ,
-Q9 - Your software and accessibility ,,
-9.1) Does your software adhere to appropriate accessibility conventions or standards?  , no ,
-9.2) Does your documentation adhere to appropriate accessibility conventions or standards? , no ,
-Q10 - How you manage your source code ,,
-10.1) Is your source code stored in a repository under revision control?  , yes ,Stored in GitHub
-10.2) Is each source code release a snapshot of the repository? , yes ,
-10.3) Are releases tagged in the repository? ,yes,
-10.4) Is there a branch of the repository that is always stable?, yes ,
-10.5) Do you back-up your repository? , yes ,
-Q11 - Building and installing your software ,,
-11.1) Do you provide publicly-available instructions for building your software from the source code?  , yes ,
-11.2) Can you build or package your software using an automated tool?, yes , PIP 
-11.3) Do you provide publicly-available instructions for deploying your software?, yes ,
-11.4) Does your documentation list all third-party dependencies? , yes ,Requirements file: https://github.com/rliu9/cheapBuy/blob/main/requirements.txt
-11.5) Does your documentation list the version number for all third-party dependencies?  , yes ,
-11.6) Does your software list the web address and licences for all third-party dependencies and say whether the dependencies are mandatory or not, no ,
-11.7) Can you download dependencies using a dependency management tool or package manager?, yes, PIP 
-11.8) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful? , yes ,
-Q12 - How you test your software ,,
-12.1) Do you have an automated test suite for your software? , yes ,GitHub workflow: https://github.com/rliu9/cheapBuy/actions/workflows/unit_test.yml
-12.2) Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code? , no ,
-12.3) Do you use continuous integration and automatically running tests whenever changes are made to your source code? , yes ,GitHub workflow: https://github.com/rliu9/cheapBuy/actions/workflows/unit_test.yml
-12.4) Are your test results publicly visible? , yes ,Test builds: https://app.travis-ci.com/github/anshulp2912/cheapBuy/builds
-12.5) Are all manually-run tests documented?  , no ,
-Q13 - How you engage with your community ,,
-13.1) Does your project have resources that are regularly updated with information about your software? , no ,
-13.2)  Does your website state how many projects and users are associated with your project? , no ,
-13.3) Do you provide success stories on your website?  , no ,
-13.4) Do you list your important partners and collaborators on your website?  , no ,
-13.5) Do you list your project's publications on your website or link to a resource where these are available? , no ,
-13.6) Do you list third-party publications that refer to your software on your website or link to a resource where these are available?  , no ,
-13.7) Can users subscribe to notifications to changes to your source code repository? ,yes ,GitHub watch and star features
-13.8) If your software is developed as an open-source project (and not just a project developing open-source software) do you have a governance model? , yes ,MIT licence
-Q14 - How you manage contributions ,,
-14.1) Do you accept contributions from people who are not part of your project?  , yes ,
-14.2) Do you have a contributions policy? , yes ,
-14.3) Is your contributions' policy publicly available?  , yes ,Contribution policy: https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md
-14.4) Do contributors keep the copyright/IP of their contributions?  , no ,
-Q15 - Your software's copyright and licensing ,,
-15.1) Does your website and documentation clearly state the copyright owners of your software and documentation? , YES ,
-15.2) Does each of your source code files include a copyright statement? , yes ,
-15.3) Does your website and documentation clearly state the licence of your software?  , YES ,
-15.4) Is your software released under an open source licence? , yes ,
-15.5) Is your software released under an OSI-approved open-source licence?  , yes ,
-15.6) Does each of your source code files include a licence header?  , yes ,
-15.7) Do you have a recommended citation for your software? , no ,
-Q16 - Your plans for the future ,,
-16.1) Does your website or documentation include a project roadmap (a list of project and development milestones)?  , yes ,Plan: https://github.com/rliu9/cheapBuy/tree/main#-plan-of-action-
-16.2) Does your website or documentation describe how your project is funded and the period over which funding is guaranteed?, no ,
-16.3) Do you make timely announcements of the deprecation of components and APIs etc.? , no ,
+6.1) Is your softwareâ€™s architecture and design modular?,yes,
+6.2) Does your software use an accepted coding standard or convention?,yes,
+Q7 - Open standards and your software,,
+7.1) Does your software allow data to be imported and exported using open data formats?,yes,CSV and HTML
+7.2) Does your software allow communications using open communications protocols?,yes,HTTP
+Q8 - Your software's portability,,
+8.1) Is your software cross-platform compatible?,yes,
+Q9 - Your software and accessibility,,
+9.1) Does your software adhere to appropriate accessibility conventions or standards?,no,
+9.2) Does your documentation adhere to appropriate accessibility conventions or standards?,no,
+Q10 - How you manage your source code,,
+10.1) Is your source code stored in a repository under revision control?,yes,Stored in GitHub
+10.2) Is each source code release a snapshot of the repository?,yes,
+10.3) Are releases tagged in the repository?,yes,
+10.4) Is there a branch of the repository that is always stable?,yes,
+10.5) Do you back-up your repository?,yes,
+Q11 - Building and installing your software,,
+11.1) Do you provide publicly-available instructions for building your software from the source code?,yes,
+11.2) Can you build or package your software using an automated tool?,yes,PIP
+11.3) Do you provide publicly-available instructions for deploying your software?,yes,
+11.4) Does your documentation list all third-party dependencies?,yes,Requirements file: https://github.com/rliu9/cheapBuy/blob/main/requirements.txt
+11.5) Does your documentation list the version number for all third-party dependencies?,yes,
+11.6) Does your software list the web address and licences for all third-party dependencies and say whether the dependencies are mandatory orÂ not,no,
+11.7) Can you download dependencies using a dependency management tool or package manager?,yes,PIP
+11.8) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?,yes,
+Q12 - How you test your software,,
+12.1) Do you have an automated test suite for your software?,yes,GitHub workflow: https://github.com/rliu9/cheapBuy/actions/workflows/unit_test.yml
+12.2) Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?,no,
+12.3) Do you use continuous integration and automatically running tests whenever changes are made to your source code?,yes,GitHub workflow: https://github.com/rliu9/cheapBuy/actions/workflows/unit_test.yml
+12.4) Are your test results publicly visible?,yes,Test builds: https://app.travis-ci.com/github/anshulp2912/cheapBuy/builds
+12.5) Are all manually-run tests documented?,no,
+Q13 - How you engage with your community,,
+13.1) Does your project have resources that are regularly updated with information about your software?,no,
+13.2)Â  Does your website state how many projects and users are associated with your project?,no,
+13.3) Do you provide success stories on your website?,no,
+13.4) Do you list your important partners and collaborators on your website?,no,
+13.5) Do you list your project's publications on your website or link to a resource where these are available?,no,
+13.6) Do you list third-party publications that refer to your software on your website or link to a resource where these are available?,no,
+13.7) Can users subscribe to notifications to changes to your source code repository?,yes,GitHub watch and star features
+13.8) If your software is developed as an open-source project (and not just a project developing open-source software) do you have a governance model?,yes,MIT licence
+Q14 - How you manage contributions,,
+14.1) Do you accept contributions from people who are not part of your project?,yes,
+14.2) Do you have a contributions policy?,yes,
+14.3) Is your contributions' policy publicly available?,yes,Contribution policy: https://github.com/rliu9/cheapBuy/blob/main/CONTRIBUTING.md
+14.4) Do contributors keep the copyright/IP of their contributions?,no,
+Q15 - Your software's copyright and licensing,,
+15.1) Does your website and documentation clearly state the copyright owners of your software and documentation?,YES,
+15.2) Does each of your source code files include a copyright statement?,yes,
+15.3) Does your website and documentation clearly state the licence of your software?,YES,
+15.4) Is your software released under an open source licence?,yes,
+15.5) Is your software released under an OSI-approved open-source licence?,yes,
+15.6) Does each of your source code files include a licence header?,yes,
+15.7) Do you have a recommended citation for your software?,no,
+Q16 - Your plans for the future,,
+16.1) Does your website or documentation include a project roadmap (a list of project and development milestones)?,yes,Plan: https://github.com/rliu9/cheapBuy/tree/main#-plan-of-action-
+16.2) Does your website or documentation describe how your project is funded and the period over which funding is guaranteed?,no,
+16.3) Do you make timely announcements of the deprecation of components and APIs etc.?,no,
