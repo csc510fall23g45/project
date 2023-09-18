@@ -19,3 +19,10 @@ Slash is an application that analyses the most major e-commerce websites to find
 ## Task 3: Report
 
 [Click here](Essay_Report.md) for the report file
+
+## Team members:
+
+- [Sai Raj Thirumalai](https://github.com/sairajzero)
+- [Anish Rao Toorpu](https://github.com/Anish7-anish)
+- [Mahathi Kolishetty](https://github.com/mahathii)
+- [Nitya Naga Sai Atluri](https://github.com/NityaNagaSai)
