@@ -14,7 +14,7 @@ h | [calorieApp](Calorie%20App-Rubric.csv)
 
 ### [Slash](https://github.com/TommasU/slash)
 Slash is an application that analyses the most major e-commerce websites to find the cheapest prices on sought items. It has filters for sorting things based on rating and price. It also provides currency conversions. In the below link we will show you the implementation of slash
-[Click here](https://youtu.be/PTqNk6ttJsc)
+- [Video Link](https://youtu.be/PTqNk6ttJsc)
 
 ## Task 3: Report
 
